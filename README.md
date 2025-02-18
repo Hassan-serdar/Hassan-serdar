@@ -11,7 +11,7 @@ I'm **Hassan Serdar**, a passionate and detail-oriented developer with a love fo
 
 I'm always expanding my skill set! Currently, I'm diving deep into:
 
-- **Deep Learning & Nlp**
+- **Deep Learning & NLP**
 - **Laravel**
 
 ## 💼 Professional Interests

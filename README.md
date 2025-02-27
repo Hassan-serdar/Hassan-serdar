@@ -34,7 +34,7 @@ I'm open to collaborating on projects that:
 
 ## 📫 How to Reach Me
 
-You can connect with me through the following channels:
+You can connect with me through the following links:
 
 - **Email:** [Hassanserdar20021@gmail.com]
 - **Facebook:** [https://www.facebook.com/hassan.serdar]
